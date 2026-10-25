@@ -2,9 +2,9 @@
 
 ## Bachelor of Technology (B.Tech)
 - **Branch:** Computer Science and Engineering
-- **Institution:** Your College Name
-- **Study period:** 20XX–20XX
-- **CGPA / Percentage:** Add if you wish to share it
+- **Institution:** aditya university
+- **Study period:** 2026–2030
+- **CGPA / Percentage:** 
 
 ## Relevant Coursework
 - Programming Fundamentals
