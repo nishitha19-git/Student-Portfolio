@@ -1,7 +1,5 @@
 # Technical Skills
 
-Replace these examples with skills you can confidently discuss in an interview.
-
 ## Programming Languages
 - Java — Beginner / Intermediate
 - Python — Beginner / Intermediate
