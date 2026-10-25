@@ -16,11 +16,3 @@ Add clear, honest descriptions of academic and personal projects.
 - **My contribution:** Created the page structure and styling.
 - **Possible improvement:** Add a project filter and improve accessibility.
 
-## Project template
-### Project Name
-- **Problem:**
-- **Solution:**
-- **Technologies:**
-- **My contribution:**
-- **What I learned:**
-- **Future improvement:**
